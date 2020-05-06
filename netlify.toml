@@ -1,8 +1,8 @@
 
 # A redirect rule with all the supported properties
 [[redirects]]
-  from = "/live_chat/*"
-  to = "https://www.youtube.com/live_chat/:splat"
+  from = "/live_chat"
+  to = "https://www.youtube.com/live_chat"
 
   # The default HTTP status code is 301, but you can define a different one.
   status = 200
